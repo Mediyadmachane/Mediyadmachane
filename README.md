@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mediyad Machane</h1>
+<h1 align="center">Hi 👋, I'm Mohamed-iyad Machane</h1>
 <h3 align="center">Computer science student at ESI-Alger</h3>
 
 ---
